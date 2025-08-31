@@ -1,5 +1,4 @@
 - 👋 Hi, I’m nick
-- 🌱 I’m currently learning html, css, and javascript
 - ✨ I’m not looking to collaborate on projects
 - 📫 How to reach me: email:skitonixyt@gmail.com
 
